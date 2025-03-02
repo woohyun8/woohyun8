@@ -18,6 +18,7 @@ I'm an undergraduate student studying Computational and Data Sciences.
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+[![NetLogo](https://img.shields.io/badge/NetLogo-0F4D92?style=for-the-badge&logoColor=white)](https://ccl.northwestern.edu/netlogo/)
 
 #### ✨ About Me
 
