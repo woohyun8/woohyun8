@@ -3,6 +3,7 @@
 I'm an undergraduate student studying Computational and Data Sciences.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wrachel.song@gmail.com)
+[![GitHub Blog](https://img.shields.io/badge/GitHub-Blog-181717?style=for-the-badge&logo=github)](https://woohyun8.github.io/)
 
 ![Woohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=woohyun8&show_icons=true&theme=default)
 
