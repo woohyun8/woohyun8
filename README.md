@@ -22,7 +22,7 @@ I'm an undergraduate student studying Computational and Data Sciences.
 
 - I'm a student at 🏫 George Mason University
 - 🌱 I’m currently learning 💻 Computational & Data Sciences
-- 🤓 I'm interested in 🧪 Biomedical Science, Psychology
+- 🤓 I'm interested in 🩺 HealthCare 🧪 Biomedical Science, Psychology
 
 
 <!--
